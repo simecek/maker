@@ -1,0 +1,11 @@
+Package: maker
+Type: Package
+Title: Calling make automation tool from R.
+Version: 0.1.0
+Author: Petr Simecek
+Maintainer: Petr Simecek <lamparna@gmail.com>
+Description: The package is designed to make
+  using `make` from RStudio as easy as possible
+License: MIT
+Encoding: UTF-8
+LazyData: true
