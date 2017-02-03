@@ -1,7 +1,7 @@
 Package: maker
 Type: Package
-Title: Calling make automation tool from R.
-Version: 0.1.0
+Title: Calling make utility from R.
+Version: 0.1.1
 Author: Petr Simecek
 Maintainer: Petr Simecek <lamparna@gmail.com>
 Description: The package is designed to make
@@ -9,3 +9,4 @@ Description: The package is designed to make
 License: MIT
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.0
